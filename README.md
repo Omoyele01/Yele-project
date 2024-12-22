@@ -1,6 +1,6 @@
 # Omoyele Oluwaseyi Ewaregbemi Project Landing Page  
 
-**IP Address**: [](18.175.197.67)
+**IP Address**: [18.175.197.67](18.175.197.67)
 
 ---
 
